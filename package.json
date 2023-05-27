@@ -1,0 +1,29 @@
+{
+  "name": "study-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentinhdn0507/study-nodejs.git"
+  },
+  "keywords": [
+    "study-nodejs"
+  ],
+  "author": "tinhnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentinhdn0507/study-nodejs/issues"
+  },
+  "homepage": "https://github.com/nguyentinhdn0507/study-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
